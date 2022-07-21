@@ -23,8 +23,11 @@
 
 <h3 align="left"> Estudando</h3>
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=7520FF)
-![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=7520FF)
+![Angular](https://img.shields.io/badge/ANGULAR-ECE2FB?style=for-the-badge&logo=angular&logoColor=E34F26)
+![Typescript](https://img.shields.io/badge/TYPESCRIPT-ECE2FB?style=for-the-badge&logo=typescript&logoColor=E34F26)
+![.NET](https://img.shields.io/badge/.NET-ECE2FB?style=for-the-badge&logo=.net&logoColor=E34F26)
+![]()
+![]()
  
 <h3 align="left"> Ferramentas </h3>
 
