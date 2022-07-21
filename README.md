@@ -1,9 +1,9 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-2937.jpg?w=826&t=st=1658413165~exp=1658413765~hmac=d4ad12270c77f7e2044cb507f4cfcb522310d85e214b8af6a90adacfbe186b0f">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-2937.jpg?w=826&t=st=1658413165~exp=1658413765~hmac=d4ad12270c77f7e2044cb507f4cfcb522310d85e214b8af6a90adacfbe186b0f">
 
 
 <h1 align="center">Oi, eu sou o Rafael👋 </h1>
 
-<H4>Eu sou um estudante de desenvolvimento, estou aberto para novas oportunidades de experiencias e aprendizados, sempre em busca de evoluir como pessoa e profissional.   :computer:.</h4>
+<H4>Eu sou um estudante de desenvolvimento, estou aberto para novas oportunidades de experiencias e aprendizados, sempre em busca de evoluir como pessoa e profissional.   :computer:</h4>
 
 <h1></h1>
 
