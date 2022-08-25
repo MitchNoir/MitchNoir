@@ -23,9 +23,9 @@
 
 <h3 align="left"> Estudando</h3>
 
+![.NET](https://img.shields.io/badge/.NET-ECE2FB?style=for-the-badge&logo=.net&logoColor=E34F26)
 ![Angular](https://img.shields.io/badge/ANGULAR-ECE2FB?style=for-the-badge&logo=angular&logoColor=E34F26)
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-ECE2FB?style=for-the-badge&logo=typescript&logoColor=E34F26)
-![.NET](https://img.shields.io/badge/.NET-ECE2FB?style=for-the-badge&logo=.net&logoColor=E34F26)
 ![]()
 ![]()
  
