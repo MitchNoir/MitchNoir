@@ -13,7 +13,7 @@
     
 [![E-mail](https://img.shields.io/badge/-rafaelssilva999@gmail.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7520FF&color:FFF)](mailto:rafaelssilva999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7520FF&color:FFF)](https://www.linkedin.com/in/rafael-s-silva-951703180)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=7520FF&color:FFF)](https://www.instagram.com/_mitchnoir)
+
 
 <h3 align="left"> Principais habilidades </h3>
 
