@@ -21,19 +21,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-ECE2FB?style=for-the-badge&logo=css3&logoColor=00BFFF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<h3 align="left"> Estudando</h3>
-
-![.NET](https://img.shields.io/badge/.NET-ECE2FB?style=for-the-badge&logo=.net&logoColor=E34F26)
-![Angular](https://img.shields.io/badge/ANGULAR-ECE2FB?style=for-the-badge&logo=angular&logoColor=E34F26)
-![Typescript](https://img.shields.io/badge/TYPESCRIPT-ECE2FB?style=for-the-badge&logo=typescript&logoColor=E34F26)
-![]()
-![]()
- 
-<h3 align="left"> Ferramentas </h3>
-
-![Git](https://img.shields.io/badge/Git-E7ECEB?style=for-the-badge&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-E7ECEB?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
-![Microsoft Office](https://img.shields.io/badge/Office-E7ECEB?style=for-the-badge&logo=microsoft-office&logoColor=EB3D01)
 
 
 
