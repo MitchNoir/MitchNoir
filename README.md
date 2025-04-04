@@ -1,12 +1,22 @@
-<h1 align="center">Oi, eu sou o Rafael👋 </h1>
+# 👋 Olá, visitante!
 
-<H4>Eu sou um estudante de desenvolvimento, estou aberto para novas oportunidades de experiencias e aprendizados, sempre em busca de evoluir como pessoa e profissional.   :computer:</h4>
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-<h1></h1>
+## 🌟 Informações Públicas
 
-> 
+Meu nome é **Rafael** (também conhecido(a) como **Mitch**). Atualmente, moro em **Belo Horizonte, Brasil** 🚀
 
-<h3> Você pode me encontrar aqui </h3> 
-    
-[![E-mail](https://img.shields.io/badge/-rafaelssilva999@gmail.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7520FF&color:FFF)](mailto:rafaelssilva999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7520FF&color:FFF)](https://www.linkedin.com/in/rafael-s-silva-951703180)
+## 📝 Informações Detalhadas
+
+- 👤 **Nome:** Rafael S. Silva
+- 🎂 **Idade:** 25
+- 📍 **Localização:** Belo Horizonte - Minas Gerais - Brasil   
+- 💻 **Stack:** Python, C#
+- 📚 **Aprendizado Atual:** Python, JavaScript, Next.js  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - PUC Minas
+
+## 😎 Você pode me encontrar aqui
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mitchnoir/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-s-silva-951703180)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelssilva999@gmail.com)
