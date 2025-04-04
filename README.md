@@ -2,7 +2,7 @@
 
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-## 🌟 Informações Públicas
+## 🖤🕸️ Informações Públicas
 
 Meu nome é **Rafael** (também conhecido(a) como **Mitch**). Atualmente, moro em **Belo Horizonte, Brasil** 🚀
 
