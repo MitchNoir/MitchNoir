@@ -4,7 +4,7 @@
 
 ## 🖤🕸️ Informações Públicas
 
-Meu nome é **Rafael** (também conhecido(a) como **Mitch**). Atualmente, moro em **Belo Horizonte, Brasil** 🚀
+Meu nome é **Rafael** a.k.a **Mitch**. Atualmente, moro em **Belo Horizonte, Brasil** 🚀
 
 ## 📝 Informações Detalhadas
 
