@@ -9,7 +9,7 @@ Meu nome é **Rafael** a.k.a **Mitch**. Atualmente, moro em **Belo Horizonte, Br
 ## 📝 Informações Detalhadas
 
 - 👤 **Nome:** Rafael S. Silva
-- 🎂 **Idade:** 25
+- 🎂 **Idade:** 26
 - 📍 **Localização:** Belo Horizonte - Minas Gerais - Brasil   
 - 💻 **Stack:** Python, C#
 - 📚 **Aprendizado Atual:** Python, JavaScript, Next.js  
